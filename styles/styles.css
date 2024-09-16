@@ -1,0 +1,71 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+}
+header {
+  text-align: center;
+  padding: 10px 0;
+}
+#lista {
+  width: 100%;
+  max-width: 1120px;
+  padding: 0 2%;
+  margin: 0 auto;
+}
+#lista .multitrack {
+  padding: 5px 0;
+  border-bottom: 1px solid #ccc;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+#lista .multitrack span {
+  font-weight: bold;
+}
+#lista .multitrack .numero {
+  width: 13%;
+  padding: 0 5px;
+  text-align: center;
+  font-weight: 700;
+}
+#lista .multitrack .info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  flex-grow: 1;
+}
+#lista .multitrack .info p {
+  padding: 0 5px;
+}
+#lista .multitrack .links {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  row-gap: 3px;
+}
+#lista .multitrack .links span {
+  padding: 0 5px;
+}
+#lista .multitrack .links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#lista .multitrack .links a img {
+  width: 25px;
+}
+#lista .multitrack .links a[disabled] {
+  cursor: not-allowed;
+  pointer-events: none;
+  filter: grayscale(1);
+  opacity: 0.5;
+}
+footer {
+  text-align: center;
+  margin-top: 20px;
+  padding: 5px 0;
+}

@@ -1,0 +1,84 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+header {
+    text-align: center;
+    padding: 10px 0;
+}
+
+#lista {
+    width: 100%;
+    max-width: 1120px;
+    padding: 0 2%;
+    margin: 0 auto;
+
+    .multitrack {
+        padding: 5px 0;
+        border-bottom: 1px solid #ccc;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        span {
+            font-weight: bold;
+        }
+
+        .numero {
+            width: 13%;
+            padding: 0 5px;
+            text-align: center;
+            font-weight: 700;
+        }
+
+        .info {
+            display: flex;
+            flex-direction: column;
+            align-items: flex-start;
+            justify-content: space-between;
+            flex-grow: 1;
+
+            p {
+                padding: 0 5px;
+            }
+        }
+
+        .links {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            row-gap: 3px;
+
+            span {
+                padding: 0 5px;
+            }
+
+            a {
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                img {
+                    width: 25px;
+                }
+
+                &[disabled] {
+                    cursor: not-allowed;
+                    pointer-events: none;
+                    filter: grayscale(1);
+                    opacity: 0.5;
+                }
+            }
+        }
+    }
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 5px 0;
+}
