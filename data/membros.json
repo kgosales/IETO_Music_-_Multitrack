@@ -1,102 +1,178 @@
 [
-	{
-		"nome": "Aline de Oliveira Martins",
-		"dataNascimento": "",
-		"apelido": "Aline Martins",
-		"disponibilidade": {
-			"terca": true,
-			"sexta": true,
-			"sabado": true,
-			"domingo": true
-		}
-	},
-	{
-		"nome": "Kleython Gabriel de Oliveira Sales",
-		"dataNascimento": "13/10/1996",
-		"apelido": "Gabriel Sales",
-		"endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
-		"email": "kleythongabriel@gmail.com",
-		"instagram": "@kgosales",
-		"celular": [
-			{
-				"numero": "73981917548",
-				"whatsapp": true
-			}
-		],
-		"funcoes": [
-			{
-				"funcao": "Cantor(a)",
-				"tipo": "Titular"
-			},
-			{
-				"funcao": "Músico(a)",
-				"tipo": "Tecladista"
-			}
-		],
-		"disponibilidade": {
-			"terca": false,
-			"sexta": false,
-			"sabado": true,
-			"domingo": true
-		}
-	},
-	{
-		"nome": "Luana Santos Martins Sales",
-		"dataNascimento": "11/11/1996",
-		"apelido": "Luana Martins",
-		"endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
-		"email": "luanasantosmartins@gmail.com",
-		"instagram": null,
-		"celular": [
-			{
-				"numero": "73991911740",
-				"whatsapp": true
-			}
-		],
-		"funcoes": [
-			{
-				"funcao": "Cantor(a)",
-				"tipo": "Auxiliar"
-			}
-		],
-		"disponibilidade": {
-			"terca": true,
-			"sexta": false,
-			"sabado": true,
-			"domingo": true
-		}
-	},
-	{
-		"nome": "Sanmilly Almeida Dias",
-		"dataNascimento": "",
-		"apelido": "Sanmilly Dias",
-		"disponibilidade": {
-			"terca": false,
-			"sexta": true,
-			"sabado": true,
-			"domingo": true
-		}
-	},
-	{
-		"nome": "Suely Caires",
-		"dataNascimento": "",
-		"apelido": "",
-		"disponibilidade": {
-			"terca": true,
-			"sexta": true,
-			"sabado": true,
-			"domingo": true
-		}
-	},
-	{
-		"nome": "Thamiles Barros",
-		"dataNascimento": "",
-		"apelido": "",
-		"disponibilidade": {
-			"terca": true,
-			"sexta": true,
-			"sabado": false,
-			"domingo": true
-		}
-	}
+    {
+        "nome": "Aline de Oliveira Martins",
+        "dataNascimento": "",
+        "apelido": "Aline Martins",
+        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
+        "email": "kleythongabriel@gmail.com",
+        "instagram": "@kgosales",
+        "celular": [
+            {
+                "numero": "73981917548",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": "Titular"
+            },
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Tecladista"
+            }
+        ],
+        "disponibilidade": {
+            "terca": true,
+            "sexta": true,
+            "sabado": true,
+            "domingo": true
+        }
+    },
+    {
+        "nome": "Kleython Gabriel de Oliveira Sales",
+        "dataNascimento": "13/10/1996",
+        "apelido": "Gabriel Sales",
+        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
+        "email": "kleythongabriel@gmail.com",
+        "instagram": "@kgosales",
+        "celular": [
+            {
+                "numero": "73981917548",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": "Titular"
+            },
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Tecladista"
+            }
+        ],
+        "disponibilidade": {
+            "terca": false,
+            "sexta": false,
+            "sabado": true,
+            "domingo": true
+        }
+    },
+    {
+        "nome": "Luana Santos Martins Sales",
+        "dataNascimento": "11/11/1996",
+        "apelido": "Luana Martins",
+        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
+        "email": "luanasantosmartins@gmail.com",
+        "instagram": null,
+        "celular": [
+            {
+                "numero": "73991911740",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": "Auxiliar"
+            }
+        ],
+        "disponibilidade": {
+            "terca": true,
+            "sexta": false,
+            "sabado": true,
+            "domingo": true
+        }
+    },
+    {
+        "nome": "Sanmilly Almeida Dias",
+        "dataNascimento": "",
+        "apelido": "Sanmilly Dias",
+        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
+        "email": "kleythongabriel@gmail.com",
+        "instagram": "@kgosales",
+        "celular": [
+            {
+                "numero": "73981917548",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": "Titular"
+            },
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Tecladista"
+            }
+        ],
+        "disponibilidade": {
+            "terca": false,
+            "sexta": true,
+            "sabado": true,
+            "domingo": true
+        }
+    },
+    {
+        "nome": "Suely Caires",
+        "dataNascimento": "",
+        "apelido": "",
+        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
+        "email": "kleythongabriel@gmail.com",
+        "instagram": "@kgosales",
+        "celular": [
+            {
+                "numero": "73981917548",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": "Titular"
+            },
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Tecladista"
+            }
+        ],
+        "disponibilidade": {
+            "terca": true,
+            "sexta": true,
+            "sabado": true,
+            "domingo": true
+        }
+    },
+    {
+        "nome": "Thamiles Barros",
+        "dataNascimento": "",
+        "apelido": "",
+        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
+        "email": "kleythongabriel@gmail.com",
+        "instagram": "@kgosales",
+        "celular": [
+            {
+                "numero": "73981917548",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": "Titular"
+            },
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Tecladista"
+            }
+        ],
+        "disponibilidade": {
+            "terca": true,
+            "sexta": true,
+            "sabado": false,
+            "domingo": true
+        }
+    }
 ]
