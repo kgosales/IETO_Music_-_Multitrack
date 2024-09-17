@@ -21,6 +21,9 @@ header {
   align-items: center;
   justify-content: space-between;
 }
+#lista .multitrack:nth-child(even) {
+  background-color: #fcfcfc;
+}
 #lista .multitrack span {
   font-weight: bold;
 }
