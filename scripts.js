@@ -26,7 +26,6 @@ fetch("data/multitracks.json")
         const links = document.querySelectorAll(".links a");
 
         links.forEach((link) => {
-            console.log(link.href);
             if (link.href.includes("#")) {
                 link.setAttribute("disabled", "true");
             }

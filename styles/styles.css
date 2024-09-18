@@ -20,6 +20,7 @@ header {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  column-gap: 5px;
 }
 #lista .multitrack:nth-child(even) {
   background-color: #fcfcfc;
@@ -28,10 +29,10 @@ header {
   font-weight: bold;
 }
 #lista .multitrack .numero {
-  width: 13%;
-  padding: 0 5px;
+  width: 10%;
   text-align: center;
   font-weight: 700;
+  flex-shrink: 0;
 }
 #lista .multitrack .info {
   display: flex;
@@ -39,9 +40,6 @@ header {
   align-items: flex-start;
   justify-content: space-between;
   flex-grow: 1;
-}
-#lista .multitrack .info p {
-  padding: 0 5px;
 }
 #lista .multitrack .links {
   display: flex;
@@ -71,4 +69,10 @@ footer {
   text-align: center;
   margin-top: 20px;
   padding: 5px 0;
+}
+@media screen and (max-width: 768px) {
+  p,
+  span {
+    font-size: 14px;
+  }
 }
