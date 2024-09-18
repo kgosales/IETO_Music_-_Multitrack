@@ -3,12 +3,12 @@
         "nome": "Aline de Oliveira Martins",
         "dataNascimento": "",
         "apelido": "Aline Martins",
-        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
-        "email": "kleythongabriel@gmail.com",
-        "instagram": "@kgosales",
+        "endereco": "",
+        "email": "",
+        "instagram": "",
         "celular": [
             {
-                "numero": "73981917548",
+                "numero": "",
                 "whatsapp": true
             }
         ],
@@ -16,10 +16,6 @@
             {
                 "funcao": "Cantor(a)",
                 "tipo": "Titular"
-            },
-            {
-                "funcao": "Músico(a)",
-                "tipo": "Tecladista"
             }
         ],
         "disponibilidade": {
@@ -89,12 +85,12 @@
         "nome": "Sanmilly Almeida Dias",
         "dataNascimento": "",
         "apelido": "Sanmilly Dias",
-        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
-        "email": "kleythongabriel@gmail.com",
-        "instagram": "@kgosales",
+        "endereco": "",
+        "email": "",
+        "instagram": "",
         "celular": [
             {
-                "numero": "73981917548",
+                "numero": "",
                 "whatsapp": true
             }
         ],
@@ -102,10 +98,6 @@
             {
                 "funcao": "Cantor(a)",
                 "tipo": "Titular"
-            },
-            {
-                "funcao": "Músico(a)",
-                "tipo": "Tecladista"
             }
         ],
         "disponibilidade": {
@@ -119,23 +111,19 @@
         "nome": "Suely Caires",
         "dataNascimento": "",
         "apelido": "",
-        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
-        "email": "kleythongabriel@gmail.com",
-        "instagram": "@kgosales",
+        "endereco": "",
+        "email": "",
+        "instagram": "",
         "celular": [
             {
-                "numero": "73981917548",
+                "numero": "",
                 "whatsapp": true
             }
         ],
         "funcoes": [
             {
                 "funcao": "Cantor(a)",
-                "tipo": "Titular"
-            },
-            {
-                "funcao": "Músico(a)",
-                "tipo": "Tecladista"
+                "tipo": "Auxiliar"
             }
         ],
         "disponibilidade": {
@@ -149,12 +137,12 @@
         "nome": "Thamiles Barros",
         "dataNascimento": "",
         "apelido": "",
-        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
-        "email": "kleythongabriel@gmail.com",
-        "instagram": "@kgosales",
+        "endereco": "",
+        "email": "",
+        "instagram": "",
         "celular": [
             {
-                "numero": "73981917548",
+                "numero": "",
                 "whatsapp": true
             }
         ],
@@ -162,10 +150,6 @@
             {
                 "funcao": "Cantor(a)",
                 "tipo": "Titular"
-            },
-            {
-                "funcao": "Músico(a)",
-                "tipo": "Tecladista"
             }
         ],
         "disponibilidade": {
