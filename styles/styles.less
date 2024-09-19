@@ -22,8 +22,9 @@ header {
         display: flex;
         align-items: center;
         justify-content: space-between;
+        column-gap: 5px;
 
-        &:nth-child(even){
+        &:nth-child(even) {
             background-color: #fcfcfc;
         }
 
@@ -32,10 +33,10 @@ header {
         }
 
         .numero {
-            width: 13%;
-            padding: 0 5px;
+            width: 10%;
             text-align: center;
             font-weight: 700;
+            flex-shrink: 0;
         }
 
         .info {
@@ -44,10 +45,6 @@ header {
             align-items: flex-start;
             justify-content: space-between;
             flex-grow: 1;
-
-            p {
-                padding: 0 5px;
-            }
         }
 
         .links {
@@ -85,4 +82,12 @@ footer {
     text-align: center;
     margin-top: 20px;
     padding: 5px 0;
+}
+
+@media screen and (max-width: 768px) {
+
+    p,
+    span {
+        font-size: 14px;
+    }
 }

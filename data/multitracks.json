@@ -28,6 +28,34 @@
         "link_download": ""
     },
     {
+        "artista": "Ale Magnani",
+        "musica": "Até Que Ele Venha",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/LgMR5Ak7zHQ",
+        "link_download": ""
+    },
+    {
+        "artista": "Alessandro Vilas Boas",
+        "musica": "O Fogo Nunca Dorme",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/r5BHS_dsWH8",
+        "link_download": ""
+    },
+    {
+        "artista": "Alessandro Vilas Boas",
+        "musica": "Quero Conhecer Jesus",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/z6vYoy4O6P4",
+        "link_download": ""
+    },
+    {
+        "artista": "Aline Barros",
+        "musica": "Imensurável",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/ytQkOwLWpd4",
+        "link_download": ""
+    },
+    {
         "artista": "Altomonte Music",
         "musica": "Jesus",
         "origem": "Multitracks.com",
@@ -57,6 +85,13 @@
     },
     {
         "artista": "Arieta Magrini",
+        "musica": "Em Espírito",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/JnJtkVyMzxA",
+        "link_download": ""
+    },
+    {
+        "artista": "Arieta Magrini",
         "musica": "O Cordeiro Venceu",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/8GWjZVOgRxY",
@@ -67,6 +102,13 @@
         "musica": "Deixa Ele Te Tocar",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/2gDZ16gL_CI",
+        "link_download": ""
+    },
+    {
+        "artista": "Bethel Music",
+        "musica": "King Of My Heart",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/pomqj7acJc4",
         "link_download": ""
     },
     {
@@ -95,6 +137,13 @@
         "musica": "Breathe In, Breathe Out",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/UXNhcbAr4ro",
+        "link_download": ""
+    },
+    {
+        "artista": "Coletivo Adoração",
+        "musica": "Reina em Mim (feat. Israel Salazar)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/C19zjnswAco",
         "link_download": ""
     },
     {
@@ -147,6 +196,13 @@
         "link_download": ""
     },
     {
+        "artista": "Felipe Rodrigues",
+        "musica": "Além do Impossível (feat. Marcelo Markes)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/AqMVEVKRSoQ",
+        "link_download": ""
+    },
+    {
         "artista": "Fernandinho",
         "musica": "Pai Nosso",
         "origem": "Multitracks.com (Download)",
@@ -154,15 +210,15 @@
         "link_download": ""
     },
     {
-        "artista": "FHOP + Marco Telles",
-        "musica": "Único",
+        "artista": "Fernandinho",
+        "musica": "Pra Sempre",
         "origem": "Multitracks.com (Download)",
-        "link_youtube": "https://youtu.be/0vCmIKyJPRI",
+        "link_youtube": "https://youtu.be/fAll7coh4y0",
         "link_download": ""
     },
     {
         "artista": "FHOP Music",
-        "musica": "A Boa Parte",
+        "musica": "A Boa Parte (feat. Nivea Soares)",
         "origem": "Multitracks.com (Download)",
         "link_youtube": "https://youtu.be/dlGOiuxSzVw",
         "link_download": ""
@@ -176,9 +232,44 @@
     },
     {
         "artista": "FHOP Music",
+        "musica": "Colossenses e Suas Linhas de Amor (feat. Marco Telles)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/MeX0yHMs9Nk",
+        "link_download": ""
+    },
+    {
+        "artista": "FHOP Music",
+        "musica": "Eu Vi Alguém Mais Belo",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/PgDFyCdv80o",
+        "link_download": ""
+    },
+    {
+        "artista": "FHOP Music",
+        "musica": "Nos Último Dias",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/4itSDFQxdYo",
+        "link_download": ""
+    },
+    {
+        "artista": "FHOP Music",
+        "musica": "Ruja o Leão",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/jtm9HiYZ7UQ",
+        "link_download": ""
+    },
+    {
+        "artista": "FHOP Music",
         "musica": "Tu És + Águas Purificadoras",
         "origem": "Multitracks.com (Download)",
         "link_youtube": "https://youtu.be/YXnQ02HYB1w",
+        "link_download": ""
+    },
+    {
+        "artista": "FHOP Music",
+        "musica": "Único (feat. Marco Telles)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/0vCmIKyJPRI",
         "link_download": ""
     },
     {
@@ -200,6 +291,20 @@
         "musica": "Na Terra Como No Céu",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/tIsqtftMgCc",
+        "link_download": ""
+    },
+    {
+        "artista": "Gabi Sampaio",
+        "musica": "Seja Tudo Em Mim",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/7w0I9wmrcaY",
+        "link_download": ""
+    },
+    {
+        "artista": "Gabi Sampaio",
+        "musica": "Teu Toque (feat. Nivea Soares)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/i1Tz2jny2mw",
         "link_download": ""
     },
     {
@@ -228,6 +333,13 @@
         "musica": "Santo Pra Sempre",
         "origem": "Multitracks.com (Download)",
         "link_youtube": "https://youtu.be/ijNCc7ICCck",
+        "link_download": ""
+    },
+    {
+        "artista": "Gabriel Guedes",
+        "musica": "Todos os Meus Dias",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/jQm171et5lA",
         "link_download": ""
     },
     {
@@ -273,10 +385,38 @@
         "link_download": ""
     },
     {
+        "artista": "Hillsong Worship",
+        "musica": "Agnus Dei + King of Kings",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/yBp63773Cxc",
+        "link_download": ""
+    },
+    {
         "artista": "Igreja Viva",
         "musica": "Quão Bom",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/t61oT81Oqlw",
+        "link_download": ""
+    },
+    {
+        "artista": "Ipalpha Música",
+        "musica": "63",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/FXMmY2ql9Ug",
+        "link_download": ""
+    },
+    {
+        "artista": "Ipalpha Música",
+        "musica": "Vinho e Pão",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/JheqX_w3m08",
+        "link_download": ""
+    },
+    {
+        "artista": "Israel Salazar",
+        "musica": "Aviva-nos",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/DAQijm3KOTU",
         "link_download": ""
     },
     {
@@ -301,6 +441,20 @@
         "link_download": ""
     },
     {
+        "artista": "Israel Salazar",
+        "musica": "Tudo o Que me Prometeu",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/lA7nmPlpElM",
+        "link_download": ""
+    },
+    {
+        "artista": "Israel Salazar",
+        "musica": "Vitória na Cruz",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/jXJMqpbp3VA",
+        "link_download": ""
+    },
+    {
         "artista": "Jefferson & Suellen",
         "musica": "Vem Me Buscar",
         "origem": "Multitracks.com (Download)",
@@ -308,8 +462,22 @@
         "link_download": ""
     },
     {
-        "artista": "Kemuel + Lukas Agustinho",
-        "musica": "Algo Novo",
+        "artista": "Julliany Souza",
+        "musica": "Lindo Momento",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/xcC3Xh3PFcE",
+        "link_download": ""
+    },
+    {
+        "artista": "Julliany Souza",
+        "musica": "Me Derramar",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/mckrOiugkUw",
+        "link_download": ""
+    },
+    {
+        "artista": "Kemuel",
+        "musica": "Algo Novo (feat. Lukas Agustinho)",
         "origem": "Multitracks.com (Download)",
         "link_youtube": "https://youtu.be/wWU1Bn6wy9o",
         "link_download": ""
@@ -343,10 +511,31 @@
         "link_download": ""
     },
     {
+        "artista": "Louvor Pdzs",
+        "musica": "Tudo Entregarei",
+        "origem": "Multitracks.com",
+        "link_youtube": "https://youtu.be/XkopCBJo3t4",
+        "link_download": ""
+    },
+    {
         "artista": "Luzlive",
         "musica": "Nossa Salvação",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/5-ezhS7qOyA",
+        "link_download": ""
+    },
+    {
+        "artista": "Marcelo Markes",
+        "musica": "Eu Tenho Você (feat. Isadora Pompeo)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/3YlXIAqI-kY",
+        "link_download": ""
+    },
+    {
+        "artista": "Marcelo Markes",
+        "musica": "Nunca Mudou",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/nI5SP9vw70I",
         "link_download": ""
     },
     {
@@ -358,9 +547,44 @@
     },
     {
         "artista": "Mateus Brito",
+        "musica": "Isaías 63",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/HaUupKVFN70",
+        "link_download": ""
+    },
+    {
+        "artista": "Mateus Brito",
         "musica": "Não Tema Ondas",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/juQi26h2Gg8",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Alto Preço + Alfa e Ômega",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/ZspMCyAFxig",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Ao Único + Espírito, Enche a Minha Vida + Sala do Trono",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/VACfwhQ9QR0",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Deus Está Aqui + Minh'alma Engrandece ao Senhor",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/FY_JWVQ4oL0",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Diante de Ti",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/NgG-Q8W-TmA",
         "link_download": ""
     },
     {
@@ -379,9 +603,72 @@
     },
     {
         "artista": "Morada",
+        "musica": "Espelhos Mágicos + Naves Imperiais",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/8JZfgzKGsf0",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Grande É o Senhor + Louvor ao Rei + Te Exaltamos + Ele é o Senhor",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/-FdwIdtQcqA",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
         "musica": "Jesus Em Tua Presença",
         "origem": "Multitracks.com (Download)",
         "link_youtube": "https://youtu.be/aMpM68cb5MY",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Louvemos ao Senhor",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/2qkzhbBwSjg",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Não Há Amor Igual",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/aVKsUV9D3Mg",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Oh! Se Fendesses",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/ixbKCeDiQOg",
+        "link_download": ""
+    },
+    {
+        "artista": "Morada",
+        "musica": "Te Agradeço + Abra os Olhos do Meu Coração + Grande é o Senhor",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/TkDlTDwOe5E",
+        "link_download": ""
+    },
+    {
+        "artista": "Nivea Soares",
+        "musica": "Eu Só Quero te Amor",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/5D8jYXnend4",
+        "link_download": ""
+    },
+    {
+        "artista": "Nivea Soares",
+        "musica": "Eu Vou Construir",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/bFoIro0Zl2Y",
+        "link_download": ""
+    },
+    {
+        "artista": "Nivea Soares",
+        "musica": "Filho do Deus Vivo",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/PdJoTcOgwUA",
         "link_download": ""
     },
     {
@@ -406,6 +693,13 @@
         "link_download": ""
     },
     {
+        "artista": "Nivea Soares",
+        "musica": "Venceu",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/dehE3ISeWNo",
+        "link_download": ""
+    },
+    {
         "artista": "Nós em Um",
         "musica": "Bem-Vindo",
         "origem": "Multitracks.com",
@@ -421,7 +715,7 @@
     },
     {
         "artista": "Paulo César Baruk",
-        "musica": "Vida aos Sepulcros",
+        "musica": "Vida aos Sepulcros (feat. Gabriel Guedes)",
         "origem": "Multitracks.com (Download)",
         "link_youtube": "https://youtu.be/EihyNO2MXwo",
         "link_download": ""
@@ -469,6 +763,13 @@
         "link_download": ""
     },
     {
+        "artista": "Renascer Praise",
+        "musica": "1000 Graus",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/QTC7_DVENZA",
+        "link_download": ""
+    },
+    {
         "artista": "SIAO Sounds",
         "musica": "Maranata (Ele Vem)",
         "origem": "Multitracks.com",
@@ -483,17 +784,24 @@
         "link_download": ""
     },
     {
-        "artista": "Theo Rubia + Alessandro",
-        "musica": "Pode Morar Aqui",
+        "artista": "Theo Rubia",
+        "musica": "A Alegria do Senhor (feat. Felipe Vilela)",
         "origem": "Multitracks.com (Download)",
-        "link_youtube": "https://youtu.be/-zLG1DvLsEs",
+        "link_youtube": "https://youtu.be/Mahr1CaNpo4",
         "link_download": ""
     },
     {
-        "artista": "Theo Rubia + Casa Worship",
-        "musica": "Eu Só Quero Tua Presença",
+        "artista": "Theo Rubia",
+        "musica": "Eu Só Quero Tua Presença (feat. Casa Worship)",
         "origem": "Multitracks.com (Download)",
         "link_youtube": "https://youtu.be/o4AGQdUujss",
+        "link_download": ""
+    },
+    {
+        "artista": "Theo Rubia",
+        "musica": "Pode Morar Aqui (feat. Alessando Vilas Boas)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/-zLG1DvLsEs",
         "link_download": ""
     },
     {
@@ -508,6 +816,13 @@
         "musica": "Foi a Sua Mão",
         "origem": "Multitracks.com",
         "link_youtube": "https://youtu.be/EduwCoqs4e8",
+        "link_download": ""
+    },
+    {
+        "artista": "Vineyard",
+        "musica": "Quebrantado (feat. Brunão Morada)",
+        "origem": "Multitracks.com (Download)",
+        "link_youtube": "https://youtu.be/DiWAXBX2SIE",
         "link_download": ""
     }
 ]
