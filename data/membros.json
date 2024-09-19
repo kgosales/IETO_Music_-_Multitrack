@@ -1,21 +1,67 @@
 [
     {
-        "nome": "Aline de Oliveira Martins",
-        "dataNascimento": "",
-        "apelido": "Aline Martins",
-        "endereco": "",
-        "email": "",
-        "instagram": "",
+        "nome": "Adriele Souza Santos",
+        "dataNascimento": "10/05/1991",
+        "apelido": "Adriele Santos",
+        "endereco": "Rua C, Casa 03, Bloco 42 - Parque do Sol",
+        "email": "adrielesantos36@gmail.com",
+        "instagram": "@adrielesantos",
         "celular": [
             {
-                "numero": "",
+                "numero": "73991535904",
+                "whatsapp": true
+            },
+            {
+                "numero": "73991914027",
+                "whatsapp": false
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": 1
+            }
+        ],
+        "disponibilidade": {}
+    },
+    {
+        "nome": "Alessandra Farias Miranda",
+        "dataNascimento": "29/01/1973",
+        "apelido": "Sandra Farias",
+        "endereco": "Rua F, 45A - Parque das Algarobas 2",
+        "email": "alessamell@live.com",
+        "instagram": "@alessamell",
+        "celular": [
+            {
+                "numero": "73988572414",
                 "whatsapp": true
             }
         ],
         "funcoes": [
             {
                 "funcao": "Cantor(a)",
-                "tipo": "Titular"
+                "tipo": 3
+            }
+        ],
+        "disponibilidade": {}
+    },
+    {
+        "nome": "Aline de Oliveira Martins",
+        "dataNascimento": "04/06/1981",
+        "apelido": "Aline Martins",
+        "endereco": "Caminho 13, 2 - Parque das Algarobas",
+        "email": "alinewd22@gmail.com",
+        "instagram": null,
+        "celular": [
+            {
+                "numero": "73988346111",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": 4
             }
         ],
         "disponibilidade": {
@@ -24,6 +70,73 @@
             "sabado": true,
             "domingo": true
         }
+    },
+    {
+        "nome": "Davidson Dias Santos",
+        "dataNascimento": "16/05/1991",
+        "apelido": "Davidson Santos",
+        "endereco": "Rua Cidade de Recife, 922 - Brasil Novo",
+        "email": "davidson.diasduque2@gmail.com",
+        "instagram": null,
+        "celular": [
+            {
+                "numero": "73988817358",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Violonista"
+            }
+        ],
+        "disponibilidade": {}
+    },
+    {
+        "nome": "Elismar Santana Fernandes",
+        "dataNascimento": "29/12/1980",
+        "apelido": "Ed Fernandes",
+        "endereco": "Rua Carlos Andrade, 339 - Jequiezinho",
+        "email": "elismarfed42@hotmail.com",
+        "instagram": "@edyfernandes9",
+        "celular": [
+            {
+                "numero": "73998498593",
+                "whatsapp": true
+            },
+            {
+                "numero": "73991424513",
+                "whatsapp": false
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Baixista"
+            }
+        ],
+        "disponibilidade": {}
+    },
+    {
+        "nome": "Gildney Santana Cruz",
+        "dataNascimento": "24/02/1983",
+        "apelido": "Ney Cruz",
+        "endereco": "Rua Teixeira de Freitas, 165 - ?",
+        "email": "santanagilnei@gmail.com",
+        "instagram": null,
+        "celular": [
+            {
+                "numero": "73988303458",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Baixista"
+            }
+        ],
+        "disponibilidade": {}
     },
     {
         "nome": "Kleython Gabriel de Oliveira Sales",
@@ -41,7 +154,7 @@
         "funcoes": [
             {
                 "funcao": "Cantor(a)",
-                "tipo": "Titular"
+                "tipo": 4
             },
             {
                 "funcao": "Músico(a)",
@@ -54,6 +167,27 @@
             "sabado": true,
             "domingo": true
         }
+    },
+    {
+        "nome": "Kleython Geafas Martins Sales",
+        "dataNascimento": null,
+        "apelido": "Prº Kleython",
+        "endereco": "Rua Sebastião Azevedo, 431 - Jequiezinho",
+        "email": null,
+        "instagram": null,
+        "celular": [
+            {
+                "numero": "73991670651",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": 4
+            }
+        ],
+        "disponibilidade": {}
     },
     {
         "nome": "Luana Santos Martins Sales",
@@ -71,7 +205,7 @@
         "funcoes": [
             {
                 "funcao": "Cantor(a)",
-                "tipo": "Auxiliar"
+                "tipo": 1
             }
         ],
         "disponibilidade": {
@@ -82,22 +216,69 @@
         }
     },
     {
-        "nome": "Sanmilly Almeida Dias",
-        "dataNascimento": "",
-        "apelido": "Sanmilly Dias",
-        "endereco": "",
-        "email": "",
-        "instagram": "",
+        "nome": "Nelson Soares Silva",
+        "dataNascimento": "27/09/1985",
+        "apelido": "Nelson Soares",
+        "endereco": "Rua José Edson, 23 - Pompílio Sampaio",
+        "email": "tchulpali@gmail.com",
+        "instagram": "@soaresnelson056",
         "celular": [
             {
-                "numero": "",
+                "numero": "73998206474",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Músico(a)",
+                "tipo": "Guitarista"
+            }
+        ],
+        "disponibilidade": {}
+    },
+    {
+        "nome": "Nilza dos Santos Barros",
+        "dataNascimento": "29/01/1998",
+        "apelido": "Thamilis Barros",
+        "endereco": "Rua O, 335A - Loteamento Água Branca",
+        "email": "thamilisdoos@gmail.com",
+        "instagram": "@thamilis_doos_",
+        "celular": [
+            {
+                "numero": "73988458047",
                 "whatsapp": true
             }
         ],
         "funcoes": [
             {
                 "funcao": "Cantor(a)",
-                "tipo": "Titular"
+                "tipo": 2
+            }
+        ],
+        "disponibilidade": {
+            "terca": true,
+            "sexta": true,
+            "sabado": false,
+            "domingo": true
+        }
+    },
+    {
+        "nome": "Sanmilly Dias de Almeida",
+        "dataNascimento": "11/08/1986",
+        "apelido": "Sanmilly Dias",
+        "endereco": "Rua Jesuíno Cerqueira, 53 - Jequiezinho",
+        "email": "sanmymusic@hotmail.com",
+        "instagram": "@sanmilly_dias",
+        "celular": [
+            {
+                "numero": "73988414898",
+                "whatsapp": true
+            }
+        ],
+        "funcoes": [
+            {
+                "funcao": "Cantor(a)",
+                "tipo": 3
             }
         ],
         "disponibilidade": {
@@ -108,54 +289,28 @@
         }
     },
     {
-        "nome": "Suely Caires",
-        "dataNascimento": "",
-        "apelido": "",
-        "endereco": "",
-        "email": "",
-        "instagram": "",
+        "nome": "Suely Caires S. Nascimento",
+        "dataNascimento": "05/12/1974",
+        "apelido": "Suely Caires",
+        "endereco": "Rua Iolanda Pires, 79 - Jequiezinho",
+        "email": "suelicsnascimento@hotmail.com",
+        "instagram": "@suelicaires",
         "celular": [
             {
-                "numero": "",
+                "numero": "73999532106",
                 "whatsapp": true
             }
         ],
         "funcoes": [
             {
                 "funcao": "Cantor(a)",
-                "tipo": "Auxiliar"
+                "tipo": 2
             }
         ],
         "disponibilidade": {
             "terca": true,
             "sexta": true,
             "sabado": true,
-            "domingo": true
-        }
-    },
-    {
-        "nome": "Thamiles Barros",
-        "dataNascimento": "",
-        "apelido": "",
-        "endereco": "",
-        "email": "",
-        "instagram": "",
-        "celular": [
-            {
-                "numero": "",
-                "whatsapp": true
-            }
-        ],
-        "funcoes": [
-            {
-                "funcao": "Cantor(a)",
-                "tipo": "Titular"
-            }
-        ],
-        "disponibilidade": {
-            "terca": true,
-            "sexta": true,
-            "sabado": false,
             "domingo": true
         }
     }
